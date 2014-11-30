@@ -68,21 +68,21 @@ void main()
 		#ifndef FOG  //over water
 			F = 1.0 - max(F, 0.1);
 		#else //under water
-			color.a = 0.1; //disable fake transparency and be transparent
+			color.a = 0.7; //disable fake transparency and be transparent
 		#endif
 
 		F = 1.0 - mix(F*F*F*F, 1.0, min(1.0, cameraDepth / FAR_CHUNKS_DISTANCE));
 
 		color.rg -= vec2(F * DIST_DESATURATION);
 
-		vec4 depthColor = vec4(color.rgb * 0.5, 0.5); // doesn't do anything visually atm except to swamp edges
-		vec4 traspColor = vec4(color.rgb * 0.7, 0.3); //transcolor is pretty much how transparent the color is, the higher it is, then no colors will show
-		vec4 surfColor = vec4(color.rgb, 1.0); //1.0 is the full color, make it 0 to have no color and be transparent
+		vec4 depthColor = vec4(color.rgb * 0.5, 1.0);
+		vec4 traspColor = vec4(color.rgb * 0.45, 0.8);
+		vec4 surfColor = vec4(color.rgb, 1.0);
 
 		vec4 nearColor = mix(traspColor, depthColor, color.a);
 		color = mix(surfColor, nearColor, F);
 	#else
-		color.a = pos.z / FAR_CHUNKS_DISTANCE + 1.5; //Don't mess with this unless you wanna break your shader
+		color.a = pos.z / FAR_CHUNKS_DISTANCE + 0.5;
 	#endif //FANCY
 #endif
 }
