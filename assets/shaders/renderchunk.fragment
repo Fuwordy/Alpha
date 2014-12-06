@@ -1,57 +1,56 @@
 #version 100
 
-// Lightmap Customizer
+// Fancier Shadows
 // Modified shader by Jocopa3
-// Original shader by Mojang Team at Microsoft
+// Made for Minecraft Pocket
+
+// The lack of comments in this shader is for two reasons:
+// 1.) Some parts I really can't explain without writing a whole paragraph
+// 2.) Helps me catch people who steal my code and don't credit me
+
+uniform vec2 VIEWPORT_DIMENSION;
+uniform sampler2D TEXTURE_0;
+uniform sampler2D TEXTURE_1;
 
 varying vec2 uv0;
 varying vec2 uv1;
 varying vec4 color;
+varying float time;
+varying vec4 skyColor;
 
 #ifdef FOG
 	varying vec4 fogColor;
 #endif
 
-uniform sampler2D TEXTURE_0;
-uniform sampler2D TEXTURE_1;
+const lowp float spos = 0.90625; // 29/32
 
-// Magic constant, Do not touch!
-// Exact value is: (2 * sqrt(11030)) / 255
-const mediump float maxDist = 0.8237161319602;
-
-const lowp float h = 0.0625; // 1/16
-const lowp float w = 0.03125; // 1/32
-const lowp vec2 Y = vec2(0.0, 1.0); // Y vector
-
-// Will return 0.0 during the day, and 1.0 at night, and changes proportionally during sunrise/sunset
-float getLight() {
-	vec3 col = texture2D( TEXTURE_1, Y ).rgb; // Yikes! Accessing textures at most 4 times per fragment!
-	float d = distance(col, vec3(1.0)); // I may change this to distance squared if it hurts performance too much
-	return d / maxDist; // Map the value of d to the range of 0.0 and 1.0
+float map(float x, float min, float max, float newMin, float newMax) {
+	return newMin + (newMax - newMin) * ((x - min) / (max - min));
 }
 
 void main() {
-	vec4 diffuse = texture2D( TEXTURE_0, uv0 );
-	
-	vec2 uv = vec2(uv1.x * w, (uv1.y * h) + 15.0 * h); // Get location of day-time lightmap on terrain texture
-	vec4 light = texture2D( TEXTURE_0, uv ); // Get the modified lightmap
-	
-	// I really hate branching in shaders since it kills performance easily
-	// But I don't know of an algorithmic way to do this either, so it'll have to stay
-	if(light.a < 0.5) {
-		light = texture2D( TEXTURE_1, uv0 ); // Use default lightmap
-	} else {
-		uv.x = (uv1.x * w) + w; // Get location of night-time lightmap on terrain texture
-		light = mix(light, texture2D( TEXTURE_0, uv ), getLight()); // Use new lightmaps and blend them together
-	}
-	
-	diffuse *= light;
+	vec4 diffuse = texture2D(TEXTURE_0, uv0);
+	vec4 light = texture2D(TEXTURE_1, uv1);
 	
 #ifdef ALPHA_TEST
 	if(diffuse.a < 0.5)
 	 	discard;
 #endif
-	diffuse *= color;
+
+	float vf = map(min((uv1.x+uv1.y)/2.0, 0.2), 0.2, 0.8, 0.4, 1.0);
+	//float sl = map(min(uv1.y, 0.2), 0.0, 0.2, 0.2, 0.6) + map(max(uv1.y, 0.2), 0.2, 1.0, 0.6, 1.0);
+	//float tl = map(uv1.x, 0.0, 1.0, 0.0, 1.2);
+	
+	vec2 cond = 1.0 - abs(sign(vec2(color.r - color.g, color.g - color.b))); // ==
+	float c0 = cond.x * cond.y; // &&
+	//float c1 = max(sign(color.r - 0.49), 0.0);
+	float c2 = max(1.0 - sign(uv1.y - spos), 0.0); // lt
+	float shade = c0 * clamp(map(vf, 0.0, 1.0, floor(color.r * 10.0) / 10.0, color.r + 0.4), 0.0, 1.0); // * c0
+	lowp float shady = 1.0 - abs(sign(shade)); // eq
+	
+	diffuse *= color * light;
+	diffuse.rgb *= vec3(shade*1.25 + shady, shade*1.15 + shady, shade*1.1 + shady); // Slight saturation
+	diffuse.rgb *= clamp(c2 * 0.8 + (1.0 - c2), 0.2, 1.0);
 
 #ifdef FOG
 	diffuse.rgb = mix( diffuse.rgb, fogColor.rgb, fogColor.a );
