@@ -1,6 +1,6 @@
 Signature-Version: 1.0
-Created-By: 1.0 (Android)
-SHA1-Digest-Manifest: AYqCQco2yXPmVCaSUv8ba3Lrm2c=
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: brDGenXRC3bZ94/2YngbBzuTIfs=
 
 Name: assets/images/mob/sheep_5.png
 SHA1-Digest: tZZJQKqiAOlKAMEHOhGienbQgSs=
@@ -8,11 +8,11 @@ SHA1-Digest: tZZJQKqiAOlKAMEHOhGienbQgSs=
 Name: assets/materials/ui.material
 SHA1-Digest: X6o0SnVKgedYO0n8X/VGBoQ+iUc=
 
-Name: assets/images/font/glyph_70.png
-SHA1-Digest: JYxGNA9unnn0+nuoxbpc34SwtpI=
-
 Name: assets/images/font/glyph_92.png
 SHA1-Digest: B0wb2ZPwEFweC4sQggHARjpfDYE=
+
+Name: assets/images/font/glyph_70.png
+SHA1-Digest: JYxGNA9unnn0+nuoxbpc34SwtpI=
 
 Name: assets/images/font/glyph_C3.png
 SHA1-Digest: Rs3OTwu6a2LOWrdb16XgdGDxUWo=
@@ -29,11 +29,11 @@ SHA1-Digest: aCIEapKdNY8mGW69gAbrcKVkBsQ=
 Name: assets/images/font/glyph_99.png
 SHA1-Digest: aUM8mxInh1bMmSFzcS6qJOEBipk=
 
-Name: assets/images/armor/diamond_2.png
-SHA1-Digest: wFeKr+JIAS1/NWb2NdWCLvLjikc=
-
 Name: assets/images/font/glyph_06.png
 SHA1-Digest: ujybJaRGB/1WpIXY8vhy3TeWSWE=
+
+Name: assets/images/armor/diamond_2.png
+SHA1-Digest: wFeKr+JIAS1/NWb2NdWCLvLjikc=
 
 Name: assets/images/font/glyph_CF.png
 SHA1-Digest: VSkUG4CACOo4S+fQuWvTLc95o6I=
@@ -41,11 +41,11 @@ SHA1-Digest: VSkUG4CACOo4S+fQuWvTLc95o6I=
 Name: assets/images/font/glyph_0C.png
 SHA1-Digest: NTkNYuXoTelBcBVL+CrFCF8Sx/8=
 
-Name: assets/images/mob/zombie.png
-SHA1-Digest: X9Nzl5FHLR7iYSPAA231D8W0auk=
-
 Name: assets/shaders/normal_as_color.vertex
 SHA1-Digest: 4y0gHRyhjIKLfV3vN0kB/v0wewE=
+
+Name: assets/images/mob/zombie.png
+SHA1-Digest: X9Nzl5FHLR7iYSPAA231D8W0auk=
 
 Name: assets/images/font/glyph_4B.png
 SHA1-Digest: tG6DPne5UD6iJ8yaaevO46i6JhU=
@@ -53,11 +53,11 @@ SHA1-Digest: tG6DPne5UD6iJ8yaaevO46i6JhU=
 Name: assets/images/environment/destroy_stage_1.png
 SHA1-Digest: jCvCWgHI+go+T3TldHuHhfFonGk=
 
-Name: assets/images/gui/background/panorama_2.png
-SHA1-Digest: WZ6+xILDzPo6U0VEr67RJK1wFEI=
-
 Name: assets/shaders/texture_cutout.fragment
 SHA1-Digest: n80rAFuwFIkwDMUhNZ60mAbW998=
+
+Name: assets/images/gui/background/panorama_2.png
+SHA1-Digest: WZ6+xILDzPo6U0VEr67RJK1wFEI=
 
 Name: assets/images/font/glyph_A3.png
 SHA1-Digest: AHXPAg0L/0r1Q5MVKilpdKwioTI=
@@ -65,11 +65,11 @@ SHA1-Digest: AHXPAg0L/0r1Q5MVKilpdKwioTI=
 Name: assets/images/font/glyph_30.png
 SHA1-Digest: xCsXksa+YHpbNXqhnSe1Z3ev0fI=
 
-Name: assets/images/environment/destroy_stage_7.png
-SHA1-Digest: 4IswPyTiH1u3MHeoqIwa7Wilp1c=
-
 Name: res/drawable-hdpi/icon_demo.png
 SHA1-Digest: 2DbbDs2ITBMf1DmBgp60ad8JikQ=
+
+Name: assets/images/environment/destroy_stage_7.png
+SHA1-Digest: 4IswPyTiH1u3MHeoqIwa7Wilp1c=
 
 Name: assets/images/font/glyph_94.png
 SHA1-Digest: hLYUOhYmjc5kd4Sq5SaCwqQ/Geo=
@@ -95,11 +95,11 @@ SHA1-Digest: 58rhGxCBs0uklGmfQ+RBn3SQ7e4=
 Name: assets/images/colormap/foliage.png
 SHA1-Digest: akFSwP1DIXlXh/FHWE2ndGCCh44=
 
-Name: assets/images/font/glyph_28.png
-SHA1-Digest: cEYS65E7hmFLlv4THuSiMHB933w=
-
 Name: assets/images/font/glyph_91.png
 SHA1-Digest: v27CsHNKyykve4lPQ1GmW/HoKUM=
+
+Name: assets/images/font/glyph_28.png
+SHA1-Digest: cEYS65E7hmFLlv4THuSiMHB933w=
 
 Name: assets/shaders/uv_as_color.fragment
 SHA1-Digest: esp4SNjMfURt2K9EzXkorVV9YC0=
@@ -146,17 +146,17 @@ SHA1-Digest: oZKNthFxHdhUXW5B73kwQC12uBg=
 Name: assets/images/font/glyph_58.png
 SHA1-Digest: Zma9lhTaopRAekGoPDAqm1a4VOk=
 
-Name: assets/images/font/glyph_6D.png
-SHA1-Digest: o+Z/reN8vK1XmegCJWewBOGMzIE=
-
-Name: assets/images/font/glyph_A6.png
-SHA1-Digest: r0UbMghCDLNwtNZNqdTtX2bmMZg=
+Name: assets/images/font/glyph_FD.png
+SHA1-Digest: hERDU5Cjtq7Wu6FgAwho+3m4hDo=
 
 Name: assets/images/font/glyph_AC.png
 SHA1-Digest: XvpQpkvL6m9Pnsi46MVi9vTUH0c=
 
-Name: assets/images/font/glyph_FD.png
-SHA1-Digest: hERDU5Cjtq7Wu6FgAwho+3m4hDo=
+Name: assets/images/font/glyph_A6.png
+SHA1-Digest: r0UbMghCDLNwtNZNqdTtX2bmMZg=
+
+Name: assets/images/font/glyph_6D.png
+SHA1-Digest: o+Z/reN8vK1XmegCJWewBOGMzIE=
 
 Name: assets/images/font/glyph_24.png
 SHA1-Digest: Rovo9YRaUqyrflygCWeP87rV/L0=
@@ -164,11 +164,11 @@ SHA1-Digest: Rovo9YRaUqyrflygCWeP87rV/L0=
 Name: assets/images/font/glyph_50.png
 SHA1-Digest: +0spToFoZqJiJhI1pYTGm1UYBuk=
 
-Name: assets/images/font/glyph_84.png
-SHA1-Digest: 9pswAH/QzpHOl6TU+rNxh6Xvn4c=
-
 Name: assets/images/mob/enderman.tga
 SHA1-Digest: nLBqIjW7/AYcdXhod4A99jyYJwY=
+
+Name: assets/images/font/glyph_84.png
+SHA1-Digest: 9pswAH/QzpHOl6TU+rNxh6Xvn4c=
 
 Name: assets/images/font/glyph_60.png
 SHA1-Digest: ONBSDasCdI9/0Hla3Y2kwYxtiPM=
@@ -194,11 +194,11 @@ SHA1-Digest: R8RpLBDqhrIsOXpn4bY9tWXqtuw=
 Name: assets/images/mob/char.png
 SHA1-Digest: /2d/SHYMHZ9i1cFZtregAF+Z6TE=
 
-Name: assets/images/font/glyph_6E.png
-SHA1-Digest: CFHwHGWvkNHVTttpz0Sv8szRxpc=
-
 Name: assets/shaders/color_uv.vertex
 SHA1-Digest: TgBfhf26ufJGs0uvu/M/gsysfmk=
+
+Name: assets/images/font/glyph_6E.png
+SHA1-Digest: CFHwHGWvkNHVTttpz0Sv8szRxpc=
 
 Name: assets/images/font/glyph_16.png
 SHA1-Digest: DHFoEZZ/V5C9iYYT4wGU3KKWrWM=
@@ -218,11 +218,11 @@ SHA1-Digest: yITsRyrXUYWZsenHVb1/+5zz1E4=
 Name: assets/images/mob/villager/smith.png
 SHA1-Digest: h4wG6Zfvgf6IDEaQgv7EO3tkABE=
 
-Name: assets/images/environment/destroy_stage_4.png
-SHA1-Digest: NB2yPmdXrgVKP+vp9QU8YZn+qp0=
-
 Name: assets/images/font/glyph_19.png
 SHA1-Digest: LiYzawQx3vxkz2i9b2tNTamaGgI=
+
+Name: assets/images/environment/destroy_stage_4.png
+SHA1-Digest: NB2yPmdXrgVKP+vp9QU8YZn+qp0=
 
 Name: assets/images/font/glyph_BB.png
 SHA1-Digest: TdnITyT/KhYg1mpB38sH9O4UFdQ=
@@ -254,14 +254,14 @@ SHA1-Digest: OrcPem+uVMBFCqCROtL8S6kkQUU=
 Name: assets/images/environment/clouds.png
 SHA1-Digest: Fep9XMNMsxwyGoJDWTVieoyDWJk=
 
+Name: assets/images/mob/sheep_8.png
+SHA1-Digest: gtZXdO9v5Zzt+xgtIhKOKIbeBvQ=
+
 Name: assets/images/font/glyph_A1.png
 SHA1-Digest: A7SGflqfuVEWelYcQPMYz4MAxZ8=
 
 Name: assets/images/font/glyph_52.png
 SHA1-Digest: Xb/ibU6p3nKcfMD3F/zK6AqMqYw=
-
-Name: assets/images/mob/sheep_8.png
-SHA1-Digest: gtZXdO9v5Zzt+xgtIhKOKIbeBvQ=
 
 Name: assets/images/font/glyph_AD.png
 SHA1-Digest: DLmmDns81a5NxBp+SB2ziSDHG4k=
@@ -278,11 +278,11 @@ SHA1-Digest: P1+7XK7z244SahOA5/lMeaDO1D8=
 Name: assets/images/font/glyph_03.png
 SHA1-Digest: pnjyqrP7wai3fmA40ReisSdthFE=
 
-Name: assets/images/gui/background/panorama_4.png
-SHA1-Digest: 6MPl8TNH+vnUrXJ2s5aoS+FLY7Q=
-
 Name: assets/images/mob/cow.png
 SHA1-Digest: pvmoSZCd4X0d+/77odbLAvnOW2k=
+
+Name: assets/images/gui/background/panorama_4.png
+SHA1-Digest: 6MPl8TNH+vnUrXJ2s5aoS+FLY7Q=
 
 Name: assets/images/font/glyph_7A.png
 SHA1-Digest: kVQ/lpflxdB8OLxhRSOrbN7KCRM=
@@ -320,11 +320,11 @@ SHA1-Digest: 5nfh/1mDpcD+nzRuKsRkSmIxsDk=
 Name: assets/images/font/glyph_A5.png
 SHA1-Digest: CYPvw/F9lRquho976ItCOn+/iYk=
 
-Name: assets/images/font/glyph_77.png
-SHA1-Digest: 251IJjNu/zUmXSXCcwlTyz39/Sw=
-
 Name: assets/images/font/glyph_7C.png
 SHA1-Digest: S41syNifJME/767av9uFHNgIjqk=
+
+Name: assets/images/font/glyph_77.png
+SHA1-Digest: 251IJjNu/zUmXSXCcwlTyz39/Sw=
 
 Name: assets/shaders/color_ex.fragment
 SHA1-Digest: tlWuh2AbgGwo5IlOvjH6pe/pa7k=
@@ -344,11 +344,11 @@ SHA1-Digest: EaOw1w3bUmlMi5smSy9EXNboXeM=
 Name: assets/images/font/glyph_FC.png
 SHA1-Digest: BVsOgEccsQFB1Rbi6Tal7xcS1Z0=
 
-Name: assets/images/environment/destroy_stage_6.png
-SHA1-Digest: R8npmBoBx07nkwj4hBTTWnmN/B4=
-
 Name: assets/images/font/glyph_9B.png
 SHA1-Digest: h2S1zZf3xSrPDDY4kt8h2jM8tFM=
+
+Name: assets/images/environment/destroy_stage_6.png
+SHA1-Digest: R8npmBoBx07nkwj4hBTTWnmN/B4=
 
 Name: res/drawable-mdpi/icon.png
 SHA1-Digest: wt+OP8LJgU5rijr1V8/UpvBPuFc=
@@ -365,11 +365,11 @@ SHA1-Digest: uTCl5+iOfEx1I0Xz9pCfUwyUJN8=
 Name: assets/images/font/glyph_2C.png
 SHA1-Digest: mIlcxx6fqB9P/COMRJkYjPU8lK4=
 
-Name: assets/images/armor/cloth_1.png
-SHA1-Digest: hAMIDQqF8Wg7Lb8wddrE2qC2eFY=
-
 Name: assets/images/font/glyph_8B.png
 SHA1-Digest: TfLhlKEnIP6MOXPo190+Ev/ZBh8=
+
+Name: assets/images/armor/cloth_1.png
+SHA1-Digest: hAMIDQqF8Wg7Lb8wddrE2qC2eFY=
 
 Name: assets/images/gui/bg32.png
 SHA1-Digest: rB1ZPtra7wiNKdkpSUdNmdKKamw=
@@ -392,14 +392,14 @@ SHA1-Digest: dZxKuAjyETqmRR5azYQF61JLYNg=
 Name: assets/shaders/texture_ccolor.fragment
 SHA1-Digest: 2O3Re3Cw0bILK8mtALOyDW+xikk=
 
-Name: assets/images/colormap/grass.png
-SHA1-Digest: 0Av/gCcU0Y4X98lOLJUQ+a1kb1Y=
+Name: assets/images/font/glyph_4C.png
+SHA1-Digest: 57f4XeydyZ7xs1SW+fTz7RkTh1Y=
 
 Name: assets/images/font/glyph_48.png
 SHA1-Digest: X2VVTdldnt38DLhgYUrwAYqY/mI=
 
-Name: assets/images/font/glyph_4C.png
-SHA1-Digest: 57f4XeydyZ7xs1SW+fTz7RkTh1Y=
+Name: assets/images/colormap/grass.png
+SHA1-Digest: 0Av/gCcU0Y4X98lOLJUQ+a1kb1Y=
 
 Name: assets/images/font/glyph_F9.png
 SHA1-Digest: s8zv4RLQtiArg0kr/ONUT2oRRkA=
@@ -461,11 +461,11 @@ SHA1-Digest: rvRhzmleMltBLkuu/cJ+3yYfvtg=
 Name: assets/images/font/glyph_CE.png
 SHA1-Digest: RT560mCUy+ROZDOh1uy4vp6eW6M=
 
-Name: assets/images/font/glyph_3C.png
-SHA1-Digest: uVajcjs6zspFvoKct8Y2xULRQoM=
-
 Name: assets/images/font/glyph_5C.png
 SHA1-Digest: uXMDtUxZ/towcC20exNMnwr+Tcw=
+
+Name: assets/images/font/glyph_3C.png
+SHA1-Digest: uVajcjs6zspFvoKct8Y2xULRQoM=
 
 Name: assets/images/font/glyph_25.png
 SHA1-Digest: cX5Tc6UBizv0LaxImenzcuYZ30s=
@@ -584,14 +584,14 @@ SHA1-Digest: E782Yq6FYlzalSD7A2NYJnfY794=
 Name: assets/images/mob/sheep_12.png
 SHA1-Digest: R9HXgGF8NnURaS14bfZtnyrdVDA=
 
-Name: assets/images/font/glyph_33.png
-SHA1-Digest: 2427AGTSwvwHklt9gzMn2L79OU8=
+Name: assets/images/terrain-atlas_mip1.tga
+SHA1-Digest: gnb+QOrDNDFjA6SHeFAo3WOoG7c=
 
 Name: assets/images/particles.png
 SHA1-Digest: +66SKSMgDdwoUEXqmhw1cIWmd9o=
 
-Name: assets/images/terrain-atlas_mip1.tga
-SHA1-Digest: gnb+QOrDNDFjA6SHeFAo3WOoG7c=
+Name: assets/images/font/glyph_33.png
+SHA1-Digest: 2427AGTSwvwHklt9gzMn2L79OU8=
 
 Name: assets/images/font/glyph_97.png
 SHA1-Digest: qES6qqWV8RAjZzQafll7LhWPc/Q=
@@ -608,11 +608,11 @@ SHA1-Digest: iWD9R/bhwbHQYQnjvm24xsV/F6Q=
 Name: assets/images/font/glyph_71.png
 SHA1-Digest: yxmTEkrMFXHWhCFziBeq+NsO+kI=
 
-Name: assets/images/font/glyph_56.png
-SHA1-Digest: ZtKL+ZdjGvgjwl0GVhB9VRrR4lQ=
-
 Name: assets/images/terrain-atlas_mip2.tga
 SHA1-Digest: O7ShRd+nWm9WqVfHYt3VpNPH9IU=
+
+Name: assets/images/font/glyph_56.png
+SHA1-Digest: ZtKL+ZdjGvgjwl0GVhB9VRrR4lQ=
 
 Name: assets/images/font/glyph_A8.png
 SHA1-Digest: JSUv9l6cS6Xm8z9IoMal2bjvNc0=
@@ -626,17 +626,17 @@ SHA1-Digest: fCgxMrZg17hNNh1+0rRry2dtqgI=
 Name: assets/images/font/glyph_59.png
 SHA1-Digest: kCEeOIQsfq3w+YNZVkq1Ab2jvHw=
 
-Name: assets/images/font/glyph_14.png
-SHA1-Digest: ZxR3C28csQg048yv3/stKag+/tw=
-
 Name: assets/images/font/glyph_2A.png
 SHA1-Digest: uVQCTWeh45QxChW1OIZpj0vRFEQ=
 
-Name: assets/images/armor/iron_1.png
-SHA1-Digest: kTrLRcqxZFUlKpnwnaSmrWliUW4=
+Name: assets/images/font/glyph_14.png
+SHA1-Digest: ZxR3C28csQg048yv3/stKag+/tw=
 
 Name: assets/images/ingame.images
 SHA1-Digest: SLek2VreSgfmNLlPGIdMmwr7sF0=
+
+Name: assets/images/armor/iron_1.png
+SHA1-Digest: kTrLRcqxZFUlKpnwnaSmrWliUW4=
 
 Name: assets/images/gui/background/panorama_3.png
 SHA1-Digest: VmujJlHfR8ZfPfOVEpR0/PEJ8FQ=
@@ -677,11 +677,11 @@ SHA1-Digest: KhSQLtCg+MJEwymFw8nuDzmo1Ac=
 Name: assets/images/font/glyph_6A.png
 SHA1-Digest: nhkIpyleMZcAQ4Ut/V7A0hGy8VA=
 
-Name: assets/images/font/glyph_3D.png
-SHA1-Digest: 5UbYtAf5g3aUFrQ94toYO577zq0=
-
 Name: assets/images/font/glyph_B2.png
 SHA1-Digest: Dzs3zwSBKoXZtrQOmpbRK4Zg7hs=
+
+Name: assets/images/font/glyph_3D.png
+SHA1-Digest: 5UbYtAf5g3aUFrQ94toYO577zq0=
 
 Name: assets/images/mob/wolf_tame.png
 SHA1-Digest: jhhhlmaRCZjhkIPftew0wwdBl50=
@@ -713,23 +713,23 @@ SHA1-Digest: lt4sruJSu8O9DgxbrqXNg1g+F8U=
 Name: assets/images/font/glyph_68.png
 SHA1-Digest: 5yi8akwncDLb2Oj/bia/0yGh7zA=
 
-Name: assets/images/font/glyph_A7.png
-SHA1-Digest: C/sB74qwqs982nUcjxXgg1AK4uY=
-
 Name: assets/images/font/glyph_D2.png
 SHA1-Digest: ADDaj1wBsI7pjsUxyUWETDPFJPY=
+
+Name: assets/images/font/glyph_A7.png
+SHA1-Digest: C/sB74qwqs982nUcjxXgg1AK4uY=
 
 Name: assets/images/font/glyph_BE.png
 SHA1-Digest: /zJBbDsuw0uXtmvgv8V/yo5541o=
 
-Name: assets/images/font/glyph_29.png
-SHA1-Digest: jkSg6NkobvX0NpeZ+4A/p/YIaVI=
+Name: assets/images/mob/magmacube.png
+SHA1-Digest: JR0PpJXsQjIxiphzk/3nHCmmHuE=
 
 Name: assets/images/font/glyph_B6.png
 SHA1-Digest: yZcBoeOSFAQQSlHNAFf+2NI5Fdc=
 
-Name: assets/images/mob/magmacube.png
-SHA1-Digest: JR0PpJXsQjIxiphzk/3nHCmmHuE=
+Name: assets/images/font/glyph_29.png
+SHA1-Digest: jkSg6NkobvX0NpeZ+4A/p/YIaVI=
 
 Name: res/drawable-mdpi/icon_demo.png
 SHA1-Digest: PlSqakneGLP5hYuQ3aPcCGIVAlc=
@@ -740,29 +740,32 @@ SHA1-Digest: Mqn3RURRV7tsNsuq47SVpBskGO8=
 Name: assets/images/font/glyph_2F.png
 SHA1-Digest: 89yadEv3H726yelLwOrU/ROwshc=
 
-Name: assets/images/font/glyph_D7.png
-SHA1-Digest: 4XJuvNCB3bY11tkTGf4rMXpYDKs=
+Name: resources.arsc
+SHA1-Digest: +Ez3HdLtHD1pl/odWVQqqC7MOLk=
 
 Name: assets/materials/particles.material
 SHA1-Digest: W9HtWBoqqjdOiHjXaC7Zn8Pphrg=
 
-Name: resources.arsc
-SHA1-Digest: hVTeqJYPzpK7PCTqCBaxDFwzamA=
+Name: assets/images/font/glyph_D7.png
+SHA1-Digest: 4XJuvNCB3bY11tkTGf4rMXpYDKs=
 
 Name: assets/images/environment/destroy_stage_5.png
 SHA1-Digest: xudqJ8CgoEACVYJ4yZ/lhfVF1hc=
 
+Name: assets/images/items-opaque.png
+SHA1-Digest: qyRBGLTywOSkIc3okH85pg6oS3Q=
+
 Name: assets/images/gui/background.png
 SHA1-Digest: kOzEY6fR3QVCng1tiDZ8HshkJVI=
 
-Name: assets/images/items-opaque.png
-SHA1-Digest: qyRBGLTywOSkIc3okH85pg6oS3Q=
+Name: assets/images/gui/default_world.png
+SHA1-Digest: rgku/vT8rKIhaGf38gyB5vSzldE=
 
 Name: assets/images/font/glyph_0E.png
 SHA1-Digest: yA3O8VMtSoL/lxJIAFLb75b1Ch0=
 
-Name: assets/images/gui/default_world.png
-SHA1-Digest: rgku/vT8rKIhaGf38gyB5vSzldE=
+Name: assets/images/items.meta
+SHA1-Digest: UiZeGEIGD9/065LeSsY/M+NcK8c=
 
 Name: assets/images/font/glyph_7B.png
 SHA1-Digest: V+zg49PuJzjtZcXocTOhHwbbTek=
@@ -770,11 +773,8 @@ SHA1-Digest: V+zg49PuJzjtZcXocTOhHwbbTek=
 Name: assets/images/font/glyph_1B.png
 SHA1-Digest: M98VkrNeXTviKqyWV/S3oCe9dDc=
 
-Name: assets/images/items.meta
-SHA1-Digest: UiZeGEIGD9/065LeSsY/M+NcK8c=
-
 Name: AndroidManifest.xml
-SHA1-Digest: BzhYD0w1cM3Ricru2XXHoMNBJeE=
+SHA1-Digest: 2RpJgjWbqPcIVlDbk1FyT0YcSnA=
 
 Name: assets/images/font/glyph_96.png
 SHA1-Digest: rWfAQEN+khbH/oxk2tA3te3/dh8=
@@ -782,11 +782,11 @@ SHA1-Digest: rWfAQEN+khbH/oxk2tA3te3/dh8=
 Name: assets/images/font/glyph_3F.png
 SHA1-Digest: 6JtpuO3if8Mt2tk6NCG783EupJc=
 
-Name: assets/images/font/glyph_21.png
-SHA1-Digest: ehw1mt8tvhuDIOmLL86b0Pibw7k=
-
 Name: assets/images/font/glyph_B0.png
 SHA1-Digest: uldTTeqACNZ7hYTI+86G4ycDlXA=
+
+Name: assets/images/font/glyph_21.png
+SHA1-Digest: ehw1mt8tvhuDIOmLL86b0Pibw7k=
 
 Name: assets/images/font/glyph_74.png
 SHA1-Digest: 2/VGQvmLl12WJAqOGZulYtE3T40=
@@ -794,20 +794,20 @@ SHA1-Digest: 2/VGQvmLl12WJAqOGZulYtE3T40=
 Name: assets/images/font/glyph_B7.png
 SHA1-Digest: LXFOK6xZkVd4Fw8zqDZhrImFmLw=
 
-Name: assets/images/font/glyph_FA.png
-SHA1-Digest: x4CVs+rsF9c82gUof9lKhLyjqHM=
-
 Name: assets/images/mob/sheep_10.png
 SHA1-Digest: z4yUDPNmpPISOLgDAFkn7H8uC5E=
+
+Name: assets/images/font/glyph_FA.png
+SHA1-Digest: x4CVs+rsF9c82gUof9lKhLyjqHM=
 
 Name: assets/images/font/glyph_3E.png
 SHA1-Digest: ILd/hLq5Giz4zbutGBcdevrqpFE=
 
-Name: assets/images/gui/background/panorama_5.png
-SHA1-Digest: 9+BosYaV4jYZ2UzlChjMRiAvNQw=
-
 Name: assets/images/gui/touchgui2.png
 SHA1-Digest: aUJPpqZJODyS2H7qKv2F/zA8TMM=
+
+Name: assets/images/gui/background/panorama_5.png
+SHA1-Digest: 9+BosYaV4jYZ2UzlChjMRiAvNQw=
 
 Name: assets/images/mob/villager/librarian.png
 SHA1-Digest: PFYDDgTcUIywGJmx+a8LDQU6G3Y=
@@ -815,20 +815,20 @@ SHA1-Digest: PFYDDgTcUIywGJmx+a8LDQU6G3Y=
 Name: assets/images/font/glyph_B9.png
 SHA1-Digest: d2VXfs2S+zuoE4uK/UTG2HrE+lY=
 
+Name: classes.dex
+SHA1-Digest: WJfLzCROtglCMr3oCkmnqOwn59Q=
+
 Name: assets/images/font/glyph_45.png
 SHA1-Digest: kKstHXn22wonpwPkxMxhVLuL9RE=
-
-Name: classes.dex
-SHA1-Digest: WcQb+8RWuFD5j1yYrYSs0XMxHlw=
 
 Name: assets/images/mob/slime.png
 SHA1-Digest: IwN8/40zHLJZa/+yv/2mpmal1iE=
 
+Name: assets/shaders/renderchunk.vertex
+SHA1-Digest: VB48S+VNlbQW1LiXJqhIIiiDcEk=
+
 Name: assets/images/font/glyph_A0.png
 SHA1-Digest: A8wg8XElHbgE2SptoAsxyUYdSAI=
-
-Name: assets/shaders/renderchunk.vertex
-SHA1-Digest: f09Dw+K+qT4hisWg+XbcGRnqXds=
 
 Name: assets/shaders/sky.vertex
 SHA1-Digest: kqPfC0VdYZ9QGKGeTZqfbHxpa0s=
@@ -875,11 +875,11 @@ SHA1-Digest: BMxKGuwaUefXOB0z8kGgWfwVqLY=
 Name: assets/shaders/color.vertex
 SHA1-Digest: HftyhcQwxVQfJ43DfcxIAIqO9KI=
 
-Name: assets/images/font/glyph_88.png
-SHA1-Digest: Vsa4l4rKt6Dh/JE82zwESoBklwA=
-
 Name: res/drawable-ldpi/icon.png
 SHA1-Digest: 8OJVdObtsi1DVCJx+h9FL9WiN2g=
+
+Name: assets/images/font/glyph_88.png
+SHA1-Digest: Vsa4l4rKt6Dh/JE82zwESoBklwA=
 
 Name: assets/images/font/glyph_9A.png
 SHA1-Digest: WGi7nvtMoJP1XWggqsQKk54uiuM=
@@ -890,14 +890,17 @@ SHA1-Digest: up+yhuubbMKjCZhSyDbpWaK+H70=
 Name: assets/materials/sad.material
 SHA1-Digest: 0VdtmwswRkN7HMNAYYTPfOVdrPM=
 
-Name: assets/images/font/glyph_78.png
-SHA1-Digest: eBonRK5DEjSHmMS3IxRr89s+34E=
-
 Name: assets/images/terrain-atlas.tga
 SHA1-Digest: Hf9NqqoxaPTMDdeEL59kVmPt9sA=
 
+Name: assets/images/font/glyph_78.png
+SHA1-Digest: eBonRK5DEjSHmMS3IxRr89s+34E=
+
 Name: assets/images/font/glyph_C9.png
 SHA1-Digest: 8qTFLL7bhUc5466nAYvkbvyTolY=
+
+Name: assets/images/mob/sheep_14.png
+SHA1-Digest: r4vTnU0PO/8KqG6EFGnKvGnVdAg=
 
 Name: assets/images/font/glyph_89.png
 SHA1-Digest: L1GUg+KOy/GPBfICBVqRIxflLoM=
@@ -905,20 +908,17 @@ SHA1-Digest: L1GUg+KOy/GPBfICBVqRIxflLoM=
 Name: assets/images/font/glyph_04.png
 SHA1-Digest: CrlqPhtlyz3WfrSkoeOcd+ecdXo=
 
-Name: assets/images/mob/sheep_14.png
-SHA1-Digest: r4vTnU0PO/8KqG6EFGnKvGnVdAg=
-
 Name: assets/images/font/glyph_A4.png
 SHA1-Digest: LAKXDmM1qqZpA3NcYhPAcbfExmY=
 
 Name: assets/images/armor/chain_1.png
 SHA1-Digest: NnKJTlsAQc/HgMPvS3bA4nAi0fs=
 
+Name: assets/shaders/renderchunk.fragment
+SHA1-Digest: Omk7Qa8K/ITGe8Z3zWAGcl5qzwM=
+
 Name: assets/images/font/glyph_41.png
 SHA1-Digest: 4g2I2o6a+NYZJAZum0eM7piFn5o=
-
-Name: assets/shaders/renderchunk.fragment
-SHA1-Digest: cfBmdX5eShROWF3wmC6hl5EXDeI=
 
 Name: assets/images/armor/chain_2.png
 SHA1-Digest: XnbK/HsaPFBRddBwARGYPTxpiO8=
@@ -941,11 +941,11 @@ SHA1-Digest: 9wxk5IwjQwT3wEQe/wtI13DeG/s=
 Name: assets/images/font/glyph_6C.png
 SHA1-Digest: Wtop90Rj+l7mupSkarwpXoRWqjc=
 
-Name: assets/images/font/glyph_CB.png
-SHA1-Digest: WHH7KVPmQ2M767dhyomEeEa6IrE=
-
 Name: res/drawable-xhdpi/icon_demo.png
 SHA1-Digest: 4CY0OCtnLBTQjYNSUJ9Y0UxdGyQ=
+
+Name: assets/images/font/glyph_CB.png
+SHA1-Digest: WHH7KVPmQ2M767dhyomEeEa6IrE=
 
 Name: assets/images/font/glyph_sizes.bin
 SHA1-Digest: iC7KZIs4ZMRHmkj493x7x9bni8o=
@@ -968,26 +968,26 @@ SHA1-Digest: 2C0TkhyIebhHjgi5Kol0JxwXM9s=
 Name: assets/images/font/glyph_49.png
 SHA1-Digest: XKMUjJn+q6OZKOfLJKgP0qEu3Tg=
 
-Name: assets/images/font/glyph_8F.png
-SHA1-Digest: dhzDsM8LYcISbuZMvIyNQsLUAmI=
-
 Name: assets/images/font/glyph_BC.png
 SHA1-Digest: bw4Ix2CWkQY0R/jx4AD6E6FAO+g=
 
-Name: assets/images/font/glyph_BA.png
-SHA1-Digest: HYlKdNj05mg1TzafHIfzpYywsd8=
+Name: assets/images/font/glyph_8F.png
+SHA1-Digest: dhzDsM8LYcISbuZMvIyNQsLUAmI=
 
 Name: assets/shaders/position.vertex
 SHA1-Digest: MRZxRTAaigGjtJUP+rh2xsHkGFw=
 
+Name: assets/images/font/glyph_BA.png
+SHA1-Digest: HYlKdNj05mg1TzafHIfzpYywsd8=
+
 Name: assets/images/font/glyph_37.png
 SHA1-Digest: WdvP89mxUdS3cwDqVeE2NuvlC4M=
 
-Name: assets/images/gui/gui2.png
-SHA1-Digest: lkGkNzyAqX0lhlJV4C9U4RygeI0=
-
 Name: assets/materials/shadows.material
 SHA1-Digest: ZCvzF4sOq4lyFDcjgzYdphWzsQU=
+
+Name: assets/images/gui/gui2.png
+SHA1-Digest: lkGkNzyAqX0lhlJV4C9U4RygeI0=
 
 Name: assets/images/font/glyph_9E.png
 SHA1-Digest: ZlPiPsPGr+KxIr0dUKmJgxdt2vs=
@@ -1007,20 +1007,20 @@ SHA1-Digest: CmefnBvkI1SYrlnWrUWi4wtdx8I=
 Name: assets/materials/common.json
 SHA1-Digest: U3Yk4jS76AdmEiTiErtFDgvF/Yg=
 
+Name: assets/images/gui/amazon/boston_buttons.png
+SHA1-Digest: 3Q9tlU9lmh/go4I2zc0Q6XpA8LE=
+
 Name: assets/images/font/glyph_9C.png
 SHA1-Digest: krGohSB5Y4sH88BAYcGk+a8R9VA=
 
 Name: assets/images/font/glyph_90.png
 SHA1-Digest: XyNB4uC0B9H5+h2mrUCWg/+Ca4k=
 
-Name: assets/images/gui/amazon/boston_buttons.png
-SHA1-Digest: 3Q9tlU9lmh/go4I2zc0Q6XpA8LE=
+Name: assets/shaders/iteminhand.fragment
+SHA1-Digest: WeB1ePSaQsgfM3zd95Kfva95sa4=
 
 Name: assets/images/font/glyph_64.png
 SHA1-Digest: gbqQwwvDT+VuV/zEKA64n66qAOc=
-
-Name: assets/shaders/iteminhand.fragment
-SHA1-Digest: WeB1ePSaQsgfM3zd95Kfva95sa4=
 
 Name: assets/images/font/glyph_6B.png
 SHA1-Digest: b3b62hwiJYV+iTuxTcB9Qahe7dc=
@@ -1034,14 +1034,14 @@ SHA1-Digest: Vl9K1/uDLLzlRb49ohXHT7Wt5do=
 Name: assets/images/font/glyph_46.png
 SHA1-Digest: dfhcUKxcin1erYRia/Vy2f/F5Qw=
 
-Name: assets/images/gui/background/panorama_0.png
-SHA1-Digest: E0V2DTJCXY9XOj0OAgcIxeiDIeY=
+Name: assets/images/mob/villager/butcher.png
+SHA1-Digest: mEmfpj340XOc7XQRA3LF0pC+cmc=
 
 Name: assets/images/item/sign.png
 SHA1-Digest: PkYEEqviSWHPjsxNd9iv/gk3bg0=
 
-Name: assets/images/mob/villager/butcher.png
-SHA1-Digest: mEmfpj340XOc7XQRA3LF0pC+cmc=
+Name: assets/images/gui/background/panorama_0.png
+SHA1-Digest: E0V2DTJCXY9XOj0OAgcIxeiDIeY=
 
 Name: assets/images/font/glyph_AF.png
 SHA1-Digest: 9neVy9LHPrzpAHSmdOCfg7If0cc=
@@ -1058,20 +1058,20 @@ SHA1-Digest: /KdUfyvPRlYsHv5qqdOhzXXpXE8=
 Name: assets/shaders/flat_white.fragment
 SHA1-Digest: MO1LJSF6nUgKhKwb0KXlNI/mpZc=
 
-Name: assets/images/font/glyph_05.png
-SHA1-Digest: hvysRb6k7sTDfy1PG2tJ+1s/RsI=
-
 Name: assets/images/mob/wolf_angry.png
 SHA1-Digest: s2RCTCGFjvPyffi7+gQNpAn7xTk=
 
-Name: assets/images/environment/destroy_stage_9.png
-SHA1-Digest: PtS0SvtILDR0wRH092hQuJzZssU=
+Name: assets/images/font/glyph_05.png
+SHA1-Digest: hvysRb6k7sTDfy1PG2tJ+1s/RsI=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: Tt5ySSkcAhLBKyL72ehPK+PHEeA=
 
 Name: assets/images/font/glyph_1A.png
 SHA1-Digest: Yam6Jb1/pdxTsi0fzpd3E1IvauQ=
 
-Name: res/drawable-xhdpi/icon.png
-SHA1-Digest: Tt5ySSkcAhLBKyL72ehPK+PHEeA=
+Name: assets/images/environment/destroy_stage_9.png
+SHA1-Digest: PtS0SvtILDR0wRH092hQuJzZssU=
 
 Name: assets/images/font/glyph_79.png
 SHA1-Digest: GtZEg7DCRQkzTjrKyDw8DM8p8jY=
@@ -1082,17 +1082,17 @@ SHA1-Digest: D2YWyN5SuTZahSc/yfGrwKd/EIk=
 Name: assets/images/watch-atlas.png
 SHA1-Digest: avckyhQrEhkv4pmeDWSGrJacvwA=
 
-Name: assets/images/font/glyph_73.png
-SHA1-Digest: PFsoe/eMepyLEMO9BLzBX8wA9Xw=
-
 Name: assets/images/mob/sheep_15.png
 SHA1-Digest: tIXqc3CErPzn/JL+khawAw/bnEc=
 
-Name: assets/images/art/kz.png
-SHA1-Digest: WS/y2/4nBi2ZemcKiN+D86G0YMY=
+Name: assets/images/font/glyph_73.png
+SHA1-Digest: PFsoe/eMepyLEMO9BLzBX8wA9Xw=
 
 Name: assets/materials/fancy.json
 SHA1-Digest: BJmaYwEwIbaXZRItepaPX+vkJvw=
+
+Name: assets/images/art/kz.png
+SHA1-Digest: WS/y2/4nBi2ZemcKiN+D86G0YMY=
 
 Name: assets/images/font/glyph_4F.png
 SHA1-Digest: ADa/wr2WD0WrH0TNN7guuxWeALs=
@@ -1100,32 +1100,32 @@ SHA1-Digest: ADa/wr2WD0WrH0TNN7guuxWeALs=
 Name: assets/images/font/glyph_12.png
 SHA1-Digest: Cb2NjhxA/lsr76ghClujrFAMmxQ=
 
-Name: assets/images/font/glyph_31.png
-SHA1-Digest: Z9I92UpGr/8W65L3xYJ78yiuUNM=
+Name: res/drawable/bg32.png
+SHA1-Digest: LKy6Ea8IlJmF6Qyc2XHfzyBIZos=
 
 Name: assets/images/font/glyph_C1.png
 SHA1-Digest: sK1f+og7powIuDR3mYCqx00jmRE=
 
-Name: res/drawable/bg32.png
-SHA1-Digest: LKy6Ea8IlJmF6Qyc2XHfzyBIZos=
+Name: assets/images/font/glyph_31.png
+SHA1-Digest: Z9I92UpGr/8W65L3xYJ78yiuUNM=
 
 Name: assets/images/environment/moon_phases.png
 SHA1-Digest: 1XLH8r+ldGP8B1XV2g21kOt92+E=
 
-Name: assets/images/font/glyph_5E.png
-SHA1-Digest: cpMKtNPB+4Kuqxcdt3fUSs5ZjYk=
-
 Name: assets/images/mob/villager/farmer.png
 SHA1-Digest: EYC7jHaSTOy3Yw+Dko4DXLv/Ok8=
+
+Name: assets/images/font/glyph_5E.png
+SHA1-Digest: cpMKtNPB+4Kuqxcdt3fUSs5ZjYk=
 
 Name: assets/images/terrain.meta
 SHA1-Digest: KoPmDWyvgFyv3nN5Q1WM7a/sSLg=
 
-Name: assets/images/font/glyph_93.png
-SHA1-Digest: /5DtnAI4KKHVUvXOtL+y2ovA59g=
-
 Name: assets/images/font/glyph_C6.png
 SHA1-Digest: Z3bywS1DdKrWjW9C04jdtPBeW7k=
+
+Name: assets/images/font/glyph_93.png
+SHA1-Digest: /5DtnAI4KKHVUvXOtL+y2ovA59g=
 
 Name: assets/images/font/glyph_34.png
 SHA1-Digest: H4DVnRK8LG2WJRlb5Ef6WFlL2bo=

@@ -1,5 +1,5 @@
 version: 2.0.0-RC3
-apkFileName: Minecraft.apk
+apkFileName: Alpha_0.10.4-signed.apk
 isFrameworkApk: false
 usesFramework:
   ids:
